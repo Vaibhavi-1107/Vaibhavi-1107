@@ -21,7 +21,7 @@ I'm a Computer Engineering student with a strong interest in problem-solving and
 - Intern at **Launched Global**
 - Participated in hackathons and technical events
 - Completed certifications in programming and data science
-- 
+  
 ## 📚 Learning & Certifications
 
 - Data Science fundamentals certification
@@ -29,9 +29,9 @@ I'm a Computer Engineering student with a strong interest in problem-solving and
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavi-kariya/
 - 📧 Email: kariavaibhavi@gmail.com
-- 
+  
 ## 🧠 A Little More About Me
 
 - 💡 I enjoy solving coding problems
