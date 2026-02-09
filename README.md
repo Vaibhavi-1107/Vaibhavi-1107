@@ -11,6 +11,16 @@ I'm a Computer Engineering student with a strong interest in problem-solving and
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,java,nodejs,mysql" />
 </p>
+## 🧩 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  <a href="https://www.codechef.com/users/your-codechef-username" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
 ## ⚡ Activity & Contributions
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhavi-1107&theme=dark)
