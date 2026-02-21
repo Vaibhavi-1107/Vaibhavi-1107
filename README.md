@@ -39,7 +39,6 @@ I'm a Computer Engineering student with a strong interest in problem-solving and
   
 ## 📚 Learning & Certifications
 
-- Data Science fundamentals certification
 - Continuous practice through online platforms
 
 ## 🤝 Connect With Me
