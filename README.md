@@ -35,7 +35,6 @@ Passionate about building intelligent systems using Machine Learning, Deep Learn
 ## 🏆 Achievements
 
 - 🥇 **14th place out of 188 teams** — Tech Sprint Hackathon, CHARUSAT × GDG On Campus
-- ☁️ **5x Google Cloud Gen AI Badges** — Agents · Apps · Landscape · Foundational Concepts · Beyond Chatbot
 - 📊 **Data Analysis with Python** — IBM via Coursera
 - 🧮 **Algorithm Design: Mastering Computational Problem Solving** — BITS Pilani via Coursera
 - 🌱 **Green Skills & AI Foundation Course** — Edunet Foundation
@@ -68,6 +67,15 @@ Passionate about building intelligent systems using Machine Learning, Deep Learn
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavi-1107&theme=github-dark)
 
 <!-- snake contribution graph goes here once set up -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Vaibhavi-1107/Vaibhavi-1107/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Vaibhavi-1107/Vaibhavi-1107/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+</p>
 
 ---
 
