@@ -74,6 +74,25 @@ Passionate about building intelligent systems using Machine Learning, Deep Learn
 
 ---
 
+## 🧩 Coding Profiles
+ 
+<p align="left">
+  <a href="https://leetcode.com/VaibhaviKariya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
+  <a href="https://www.codechef.com/users/kariyav_7601" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/vaibhavikariya" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/kariavaibhavi" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## ⚡ GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhavi-1107&theme=dark&hide_border=true&background=03060f&ring=00cfaa&fire=ff6b2b&currStreakLabel=00cfaa)
