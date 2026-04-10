@@ -11,47 +11,42 @@ Passionate about building intelligent systems using Machine Learning, Deep Learn
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ My Tech Stack
 
-**AI / ML / Data Science**
+**Languages & AI / ML**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-`Machine Learning` `Deep Learning` `NLP` `Generative AI` `Scikit-learn` `EDA` `Statistics`
-
-**Data & Visualization**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Backend & Web**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,html,css,js" />
-</p>
-
-**Programming & DSA**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-`120+ Problems Solved on CodeChef & LeetCode`
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Databases & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-`MySQL` `PostgreSQL` `SQL` `Git` `GitHub` `VS Code` `NLTK`
+**Coding Platforms**
 
----
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+
+
 
 ## 💼 Experience
 
@@ -76,25 +71,6 @@ Passionate about building intelligent systems using Machine Learning, Deep Learn
 - 🧮 **Algorithm Design: Mastering Computational Problem Solving** — BITS Pilani via Coursera
 - 🌱 **Green Skills & AI Foundation Course** — Edunet Foundation
 - 🏅 Participated in **WWT All India Women Only Hackathon**, **HackOut'25 (DA-IICT)**, **TATA Crucible Campus Quiz**
-
----
-
-## 🧩 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/VaibhaviKariya/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
-  <a href="https://www.codechef.com/users/kariyav_7601" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/vaibhavikariya" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/kariavaibhavi" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
